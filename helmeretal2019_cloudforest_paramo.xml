@@ -1,0 +1,190 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Eileen Helmer, United States Forest Service, International Institute of Tropical Forestry, Research Ecologist</origin>
+        <pubdate>20190101</pubdate>
+        <title>helmeretal2019_cloudforest_paramo.tif</title>
+        <geoform>raster digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This raster dataset represents neotropical montane cloud forest (1), subalpine or mixed cloud forest (2), páramo or other vegetation (3).</abstract>
+      <purpose>This raster data set is part of the research described in Helmer, E.H., E. A. Gerson, L. S. Baggett , B. Bird, T. S. Ruzycki , S. M. Voggesser. 2019. Neotropical cloud forests and páramo to contract and dry from declines in cloud immersion and frost. PLOS ONE. This work predicts current and predicted future cloud forest and paramo extent, based on current and predicted future climate information.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20190101</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Published.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-110.507968</westbc>
+        <eastbc>-33.543385</eastbc>
+        <northbc>27.062676</northbc>
+        <southbc>-29.999824</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>environment</themekey>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>cloud forest, paramo</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Neotropics, North America, South America, Central America, Caribbean</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>These data were collected using funding from the U.S. government and can be used without additional permissions or fees. If you use these data in a publication, presentation, or other research product, please use the following citation:Helmer, E.H., E. A. Gerson, L. S. Baggett , B. Bird, T. S. Ruzycki , S. M. Voggesser. 2019. Neotropical cloud forests and páramo to contract and dry from declines in cloud immersion and frost. PLOS ONE.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>United States Forest Service, International Institute of Tropical Forestry</cntorg>
+          <cntper>Eileen Helmer</cntper>
+        </cntorgp>
+        <cntpos>Research Ecologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>1201 Calle Ceiba, Jardin Botanico Sur</address>
+          <city>San Juan</city>
+          <state>PR</state>
+          <postal>00926-1119</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>970-498-2644</cntvoice>
+        <cntemail>ehelmer@fs.fed.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Helmer, E.H., E. A. Gerson, L. S. Baggett , B. Bird, T. S. Ruzycki , S. M. Voggesser. 2019. Neotropical cloud forests and páramo to contract and dry from declines in cloud immersion and frost. PLOS ONE.</datacred>
+    <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.3.1.5004</native>
+  </idinfo>
+  <dataqual>
+    <logic>Visual inspection.</logic>
+    <complete>Complete dataset.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>US Forest Service</title>
+            <onlink>http://www.worldclim.org/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>onLine</typesrc>
+        <srccitea>International Institute of Tropical Forestry (IITF)</srccitea>
+        <srccontr>US Forest Service; Eileen Helmer</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Modeled based on current climate data and elevation data</procdesc>
+        <procdate>20190101</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>United States Forest Service, International Institute of Tropical Forestry</cntorg>
+              <cntper>Eileen Helmer</cntper>
+            </cntorgp>
+            <cntpos>Research Ecologist</cntpos>
+            <cntaddr>
+              <addrtype>mailing</addrtype>
+              <address>1201 Calle Ceiba, Jardin Botanico Sur</address>
+              <city>San Juan</city>
+              <state>PR</state>
+              <postal>00926-1119</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>970-498-2644</cntvoice>
+            <cntemail>ehelmer@fs.fed.us</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Grid Cell</rasttype>
+      <rowcount>27390</rowcount>
+      <colcount>36943</colcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>helmeretal2019_cloudforest_paramo.tif.vat</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>OID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Value</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Count</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Class_Names</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Opacity</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <metainfo>
+    <metd>20190317</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Center for Environmental Management of Military Lands (CEMML)</cntorg>
+          <cntper>Tom Ruzycki</cntper>
+        </cntorgp>
+        <cntpos>GIS Analyst</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>1490 Campus Delivery</address>
+          <city>Fort Collins</city>
+          <state>Colorado</state>
+          <postal>80523-1490</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(970) 491-2831</cntvoice>
+        <cntfax>(970) 491-2713</cntfax>
+        <cntemail>tom.ruzycki@colostate.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
